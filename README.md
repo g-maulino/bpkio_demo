@@ -10,7 +10,7 @@ This code is demonstrating how can be used broadpeak.io to build a virtual chann
 - A valid API key created on a Broadpeak.io account
 
 ## Run
-1. cd demo_virtual_channel
+1. cd bpkio_demo
 2. python3 create_vchannel.py 
 3. Enter the requested API key, URLs and time slots
 4. Press play on the player launched within the browser at the end of the script execution
